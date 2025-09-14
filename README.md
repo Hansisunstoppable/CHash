@@ -1,6 +1,6 @@
 # CHash
 Developed a consistent hashing load balancing strategy, optimizing data allocation across cluster nodes and minimizing migration costs during node additions or removals.
-- [简体中文](https://github.com/Hansisunstoppable/redis_lock/blob/main/README_ZH.md)
+- [简体中文](https://github.com/Hansisunstoppable/CHash/blob/main/README_ZH.md)
 ### Usage
 ```
 go get github.com/Hansisunstoppable/CHash
